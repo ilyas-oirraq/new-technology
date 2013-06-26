@@ -1,4 +1,4 @@
-new-technology
+المجلة التقنية
 ==============
 
-new technology website (www.newtechnology.pw)
+موقع المجلة التقنية. أخبار التكنلوجيا والتقنية (www.newtechnology.pw)
